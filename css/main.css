@@ -1,0 +1,14 @@
+h2{
+    color: green;
+}
+p{
+    color: blue;
+    font-family: Arial, sans-serif;
+    font-size: 1.1rem;
+}
+span{
+    background: aqua;
+}
+div{
+    text-align: center;
+}
